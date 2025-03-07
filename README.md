@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Prajwal Bhandari
 
-<!--
-**Ablaze728/Ablaze728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Data Scientist** and **Physicist** specializing in **Quantum Physics, Mathematical Physics, and Geophysics**. With a Master's degree in Physics and Data Science, I have a deep passion for data-driven problem-solving and computational modeling.
 
-Here are some ideas to get you started:
+Currently, I'm a **part-time Mathematics and Statistics lecturer** at **Madan Bhandari Memorial College, Nepal**, and seeking a full-time position to contribute to academic and research excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research & Interests
+- **Quantum Computing & Physics**
+- **Machine Learning & Data Mining**
+- **Principal Component Analysis (PCA) & Clustering**
+- **Supervised Learning (Logistic Regression, Naïve Bayes, Random Forest, SVM, Boosting, Bagging)**
+- **Statistical Analysis & Data Wrangling**
+- **Sentiment Analysis & NLP**
+- **R Programming (Shiny Apps, Data Manipulation, Web Scraping, Visualization)**
+- **Python (Pandas, Scikit-learn, Matplotlib, Seaborn)**
+
+## 📊 Notable Projects
+- **House Price Prediction** (Kaggle Challenge) 🏠📈
+- **Sentiment Analysis of Social Media Data for Public Opinion Monitoring** 🗣️📊
+- **Insurance Data Analysis (Axis Insurance Dataset)** 📑📊
+- **PCA & Clustering on the NCI60 and Iris Datasets** 🔍📊
+- **Logistic Regression & Naïve Bayes on the 'Arrests' Dataset** 🚔📊
+- **Shiny Dashboard for Data Visualization** 📊💡
+
+## 📚 Teaching & Consulting
+I have been involved in **course management** and academic consulting, particularly in structuring the **B.Sc. CSIT program at LBEF College, Nepal**. My expertise extends to developing structured curricula and guiding students in data science and physics.
+
+## 📌 Current Goals
+🎯 Preparing for a **PhD in Quantum Computing** (Looking for universities in the USA that accept **PTE scores**)
+
+🎯 Enhancing my skills in **Advanced Machine Learning & Deep Learning**
+
+🎯 Contributing more to **Open-Source Projects** and publishing research papers
+
+Let's collaborate on exciting projects in **Data Science, Quantum Computing, and Machine Learning!** 🚀
+
