@@ -27,7 +27,7 @@ Currently, I'm a **part-time Mathematics and Statistics lecturer** at **Madan Bh
 I have been involved in **course management** and academic consulting, particularly in structuring the **B.Sc. CSIT program at LBEF College, Nepal**. My expertise extends to developing structured curricula and guiding students in data science and physics.
 
 ## 📌 Current Goals
-🎯 Preparing for a **PhD in Quantum Computing** (Looking for universities in the USA that accept **PTE scores**)
+🎯 Preparing for a **PhD in Quantum Computing**.
 
 🎯 Enhancing my skills in **Advanced Machine Learning & Deep Learning**
 
