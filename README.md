@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Data Scientist** and **Physicist** specializing in **Quantum Physics, Mathematical Physics, and Geophysics**. With a Master's degree in Physics and Data Science, I have a deep passion for data-driven problem-solving and computational modeling.
 
-Currently, I'm a **part-time Mathematics and Statistics lecturer** at **Madan Bhandari Memorial College, Nepal**, and seeking a full-time position to contribute to academic and research excellence.
+Currently, I'm a **part-time Mathematics and Statistics lecturer** at **Madan Bhandari Memorial College, Nepal**.
 
 ## 🔬 Research & Interests
 - **Quantum Computing & Physics**
